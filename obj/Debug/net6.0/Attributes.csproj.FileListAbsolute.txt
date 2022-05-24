@@ -1,0 +1,15 @@
+E:\C#\BankSystem\Attributes\bin\Debug\net6.0\Attributes.deps.json
+E:\C#\BankSystem\Attributes\bin\Debug\net6.0\Attributes.dll
+E:\C#\BankSystem\Attributes\bin\Debug\net6.0\Attributes.pdb
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.csproj.AssemblyReference.cache
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfoInputs.cache
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfo.cs
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.csproj.CoreCompileInputs.cache
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.dll
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\refint\Attributes.dll
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.pdb
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\ref\Attributes.dll
+E:\C#\BankSystem\Attributes\bin\Debug\net6.0\InitHelperInformatMessage.dll
+E:\C#\BankSystem\Attributes\bin\Debug\net6.0\InitHelperInformatMessage.pdb
+E:\C#\BankSystem\Attributes\obj\Debug\net6.0\Attributes.csproj.CopyComplete
